@@ -1,12 +1,20 @@
-#pragma once
-#include <iostream>
-using namespace std;
-class Option
-{
-#include <iostream>
-  
-        cout << "Hello World!" << endl;
-        return 0;
+
+#ifndef OPTION_H
+#define OPTION_H
+
+    class Option {
+    private:
+        double _expiry;
+
+    public:
+        Option(double expiry);
+
+        double getExpiry();
+
+        virtual double payoff(double) = 0;
+    };
+
+#endif
+
     
 
-};
