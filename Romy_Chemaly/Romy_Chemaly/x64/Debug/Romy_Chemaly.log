@@ -1,7 +1,11 @@
 ﻿  BlackScholesPricer.cpp
+  CallOption.cpp
   EuropeanDigitalCallOption.cpp
   EuropeanDigitalOption.cpp
   EuropeanDigitalPutOption.cpp
+  EuropeanVanillaOption.cpp
+  Option.cpp
+  PutOption.cpp
   Romy_Chemaly.cpp
   Generating Code...
-  Romy_Chemaly.vcxproj -> C:\Users\User\OneDrive - De Vinci\Documents\GitHub\PSI2\Projet_C-_for_finance\Romy_Chemaly\x64\Debug\Romy_Chemaly.exe
+  Romy_Chemaly.vcxproj -> C:\Users\sj233144\OneDrive - De Vinci\Documents\GitHub\Projet_C-_for_finance\Romy_Chemaly\x64\Debug\Romy_Chemaly.exe

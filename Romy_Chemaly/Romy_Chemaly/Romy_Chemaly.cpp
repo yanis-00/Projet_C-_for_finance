@@ -7,5 +7,5 @@
 #include "BlackScholesPricer.h"
 
 int main() {
-    
+    std :: cout<<("test");
 }
