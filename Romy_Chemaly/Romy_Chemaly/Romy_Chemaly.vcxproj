@@ -123,11 +123,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CallOption.cpp" />
+    <ClCompile Include="EuropeanVanillaOption.cpp" />
     <ClCompile Include="Option.cpp" />
+    <ClCompile Include="PutOption.cpp" />
     <ClCompile Include="Romy_Chemaly.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CallOption.h" />
+    <ClInclude Include="EuropeanVanillaOption.h" />
     <ClInclude Include="Option.h" />
+    <ClInclude Include="PutOption.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
