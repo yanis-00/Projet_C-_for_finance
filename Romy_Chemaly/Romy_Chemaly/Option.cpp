@@ -1,8 +1,12 @@
 #include "Option.h"
-Option::Option(double expiry) : _expiry(expiry) {
+
+// ... (constructeur et getExpiry déjà codés en Partie I) ...
+
+double Option::payoffPath(std::vector<double> prices) {
+    // Retourne h(S_tm), soit le payoff évalué sur le dernier prix de la trajectoire
+    return payoff(prices.back());
 }
 
-double Option::getExpiry() {
-    return _expiry;
+bool Option::isAsianOption() {
+    return false;
 }
-
