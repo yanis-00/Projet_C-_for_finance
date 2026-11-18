@@ -12,6 +12,8 @@
         double getExpiry();
 
         virtual double payoff(double) = 0;
+
+        virtual bool isAmericanOption();
     };
 
 #endif
