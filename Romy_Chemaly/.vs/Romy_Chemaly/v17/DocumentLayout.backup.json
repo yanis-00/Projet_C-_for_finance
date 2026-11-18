@@ -1,73 +1,88 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\",
+  "WorkspaceRootPath": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\Romy_Chemaly.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\Romy_Chemaly.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\Romy_Chemaly.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalCallOption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\EuropeanDigitalCallOption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalPutOption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\EuropeanDigitalPutOption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalPutOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\EuropeanDigitalPutOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\BlackScholesPricer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\BlackScholesPricer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\BlackScholesPricer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\BlackScholesPricer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalCallOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalCallOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\EuropeanDigitalCallOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalOption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\BlackScholesPricer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\BlackScholesPricer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\BlackScholesPricer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\BlackScholesPricer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\CRRPricer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\CRRPricer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\CRRPricer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\CRRPricer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\BinaryTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\BinaryTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalCallOption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\EuropeanDigitalCallOption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emman\\Desktop\\A4\\C\u002B\u002B\\Romy_Chemaly.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalPutOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\EuropeanDigitalPutOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalPutOption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\EuropeanDigitalPutOption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalOption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\EuropeanDigitalOption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\EuropeanDigitalOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\PutOption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\PutOption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\PutOption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\PutOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\PutOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\PutOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\CallOption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\CallOption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\CallOption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\CallOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\CallOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\CallOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanVanillaOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanVanillaOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\EuropeanVanillaOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\Option.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\Option.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\Option.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\Option.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\Option.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\Option.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanVanillaOption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanVanillaOption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8969ECF2-0D9D-45D5-94A7-F7DBA70FEE01}|Romy_Chemaly\\Romy_Chemaly.vcxproj|solutionrelative:Romy_Chemaly\\EuropeanVanillaOption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -78,53 +93,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EuropeanDigitalPutOption.cpp",
-              "DocumentMoniker": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalPutOption.cpp",
-              "RelativeDocumentMoniker": "Romy_Chemaly\\EuropeanDigitalPutOption.cpp",
-              "ToolTip": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalPutOption.cpp",
-              "RelativeToolTip": "Romy_Chemaly\\EuropeanDigitalPutOption.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Romy_Chemaly.cpp",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\Romy_Chemaly.cpp",
+              "RelativeDocumentMoniker": "Romy_Chemaly\\Romy_Chemaly.cpp",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\Romy_Chemaly.cpp",
+              "RelativeToolTip": "Romy_Chemaly\\Romy_Chemaly.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-21T17:27:54.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EuropeanDigitalPutOption.h",
-              "DocumentMoniker": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalPutOption.h",
-              "RelativeDocumentMoniker": "Romy_Chemaly\\EuropeanDigitalPutOption.h",
-              "ToolTip": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalPutOption.h",
-              "RelativeToolTip": "Romy_Chemaly\\EuropeanDigitalPutOption.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-10-21T17:27:28.737Z",
+              "WhenOpened": "2026-11-18T15:23:13.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "CRRPricer.cpp",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\CRRPricer.cpp",
+              "RelativeDocumentMoniker": "Romy_Chemaly\\CRRPricer.cpp",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\CRRPricer.cpp",
+              "RelativeToolTip": "Romy_Chemaly\\CRRPricer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-18T15:17:27.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CRRPricer.h",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\CRRPricer.h",
+              "RelativeDocumentMoniker": "Romy_Chemaly\\CRRPricer.h",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\CRRPricer.h",
+              "RelativeToolTip": "Romy_Chemaly\\CRRPricer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-18T15:16:44.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BlackScholesPricer.h",
-              "DocumentMoniker": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\BlackScholesPricer.h",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\BlackScholesPricer.h",
               "RelativeDocumentMoniker": "Romy_Chemaly\\BlackScholesPricer.h",
-              "ToolTip": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\BlackScholesPricer.h",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\BlackScholesPricer.h",
               "RelativeToolTip": "Romy_Chemaly\\BlackScholesPricer.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -133,11 +149,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "BlackScholesPricer.cpp",
-              "DocumentMoniker": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\BlackScholesPricer.cpp",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\BlackScholesPricer.cpp",
               "RelativeDocumentMoniker": "Romy_Chemaly\\BlackScholesPricer.cpp",
-              "ToolTip": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\BlackScholesPricer.cpp",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\BlackScholesPricer.cpp",
               "RelativeToolTip": "Romy_Chemaly\\BlackScholesPricer.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -146,24 +162,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "EuropeanDigitalCallOption.h",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalCallOption.h",
+              "RelativeDocumentMoniker": "Romy_Chemaly\\EuropeanDigitalCallOption.h",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalCallOption.h",
+              "RelativeToolTip": "Romy_Chemaly\\EuropeanDigitalCallOption.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-21T17:25:57.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BinaryTree.h",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\BinaryTree.h",
+              "RelativeDocumentMoniker": "Romy_Chemaly\\BinaryTree.h",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\BinaryTree.h",
+              "RelativeToolTip": "Romy_Chemaly\\BinaryTree.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-18T15:11:37.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Romy_Chemaly.cpp",
-              "DocumentMoniker": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\Romy_Chemaly.cpp",
-              "RelativeDocumentMoniker": "Romy_Chemaly\\Romy_Chemaly.cpp",
-              "ToolTip": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\Romy_Chemaly.cpp",
-              "RelativeToolTip": "Romy_Chemaly\\Romy_Chemaly.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\A4\\C\u002B\u002B\\Romy_Chemaly.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\A4\\C\u002B\u002B\\Romy_Chemaly.cpp",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\A4\\C\u002B\u002B\\Romy_Chemaly.cpp",
+              "RelativeToolTip": "..\\..\\..\\A4\\C\u002B\u002B\\Romy_Chemaly.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-21T15:26:37.822Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "EuropeanDigitalCallOption.cpp",
-              "DocumentMoniker": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalCallOption.cpp",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalCallOption.cpp",
               "RelativeDocumentMoniker": "Romy_Chemaly\\EuropeanDigitalCallOption.cpp",
-              "ToolTip": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalCallOption.cpp",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalCallOption.cpp",
               "RelativeToolTip": "Romy_Chemaly\\EuropeanDigitalCallOption.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -172,23 +214,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EuropeanDigitalCallOption.h",
-              "DocumentMoniker": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalCallOption.h",
-              "RelativeDocumentMoniker": "Romy_Chemaly\\EuropeanDigitalCallOption.h",
-              "ToolTip": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalCallOption.h",
-              "RelativeToolTip": "Romy_Chemaly\\EuropeanDigitalCallOption.h",
+              "DocumentIndex": 9,
+              "Title": "EuropeanDigitalPutOption.h",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalPutOption.h",
+              "RelativeDocumentMoniker": "Romy_Chemaly\\EuropeanDigitalPutOption.h",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalPutOption.h",
+              "RelativeToolTip": "Romy_Chemaly\\EuropeanDigitalPutOption.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-10-21T17:25:57.486Z"
+              "WhenOpened": "2026-10-21T17:27:28.737Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
+              "Title": "EuropeanDigitalPutOption.cpp",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalPutOption.cpp",
+              "RelativeDocumentMoniker": "Romy_Chemaly\\EuropeanDigitalPutOption.cpp",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalPutOption.cpp",
+              "RelativeToolTip": "Romy_Chemaly\\EuropeanDigitalPutOption.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-21T17:27:54.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "EuropeanDigitalOption.cpp",
-              "DocumentMoniker": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalOption.cpp",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalOption.cpp",
               "RelativeDocumentMoniker": "Romy_Chemaly\\EuropeanDigitalOption.cpp",
-              "ToolTip": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalOption.cpp",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalOption.cpp",
               "RelativeToolTip": "Romy_Chemaly\\EuropeanDigitalOption.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -196,11 +251,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "EuropeanDigitalOption.h",
-              "DocumentMoniker": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalOption.h",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalOption.h",
               "RelativeDocumentMoniker": "Romy_Chemaly\\EuropeanDigitalOption.h",
-              "ToolTip": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalOption.h",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanDigitalOption.h",
               "RelativeToolTip": "Romy_Chemaly\\EuropeanDigitalOption.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -208,11 +263,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "PutOption.h",
-              "DocumentMoniker": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\PutOption.h",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\PutOption.h",
               "RelativeDocumentMoniker": "Romy_Chemaly\\PutOption.h",
-              "ToolTip": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\PutOption.h",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\PutOption.h",
               "RelativeToolTip": "Romy_Chemaly\\PutOption.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -220,11 +275,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "CallOption.cpp",
-              "DocumentMoniker": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\CallOption.cpp",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\CallOption.cpp",
               "RelativeDocumentMoniker": "Romy_Chemaly\\CallOption.cpp",
-              "ToolTip": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\CallOption.cpp",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\CallOption.cpp",
               "RelativeToolTip": "Romy_Chemaly\\CallOption.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -232,11 +287,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "CallOption.h",
-              "DocumentMoniker": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\CallOption.h",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\CallOption.h",
               "RelativeDocumentMoniker": "Romy_Chemaly\\CallOption.h",
-              "ToolTip": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\CallOption.h",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\CallOption.h",
               "RelativeToolTip": "Romy_Chemaly\\CallOption.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -244,11 +299,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "EuropeanVanillaOption.h",
-              "DocumentMoniker": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanVanillaOption.h",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanVanillaOption.h",
               "RelativeDocumentMoniker": "Romy_Chemaly\\EuropeanVanillaOption.h",
-              "ToolTip": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanVanillaOption.h",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanVanillaOption.h",
               "RelativeToolTip": "Romy_Chemaly\\EuropeanVanillaOption.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -256,11 +311,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "PutOption.cpp",
-              "DocumentMoniker": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\PutOption.cpp",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\PutOption.cpp",
               "RelativeDocumentMoniker": "Romy_Chemaly\\PutOption.cpp",
-              "ToolTip": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\PutOption.cpp",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\PutOption.cpp",
               "RelativeToolTip": "Romy_Chemaly\\PutOption.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -268,11 +323,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Option.cpp",
-              "DocumentMoniker": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\Option.cpp",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\Option.cpp",
               "RelativeDocumentMoniker": "Romy_Chemaly\\Option.cpp",
-              "ToolTip": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\Option.cpp",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\Option.cpp",
               "RelativeToolTip": "Romy_Chemaly\\Option.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -280,11 +335,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "EuropeanVanillaOption.cpp",
-              "DocumentMoniker": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanVanillaOption.cpp",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanVanillaOption.cpp",
               "RelativeDocumentMoniker": "Romy_Chemaly\\EuropeanVanillaOption.cpp",
-              "ToolTip": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanVanillaOption.cpp",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\EuropeanVanillaOption.cpp",
               "RelativeToolTip": "Romy_Chemaly\\EuropeanVanillaOption.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -292,11 +347,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Option.h",
-              "DocumentMoniker": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\Option.h",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\Option.h",
               "RelativeDocumentMoniker": "Romy_Chemaly\\Option.h",
-              "ToolTip": "C:\\Users\\sj233144\\OneDrive - De Vinci\\Documents\\GitHub\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\Option.h",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\projet_c\u002B\u002B\\Projet_C-_for_finance\\Romy_Chemaly\\Romy_Chemaly\\Option.h",
               "RelativeToolTip": "Romy_Chemaly\\Option.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",

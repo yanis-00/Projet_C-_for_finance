@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="BlackScholesPricer.cpp" />
     <ClCompile Include="CallOption.cpp" />
+    <ClCompile Include="CRRPricer.cpp" />
     <ClCompile Include="EuropeanDigitalCallOption.cpp" />
     <ClCompile Include="EuropeanDigitalOption.cpp" />
     <ClCompile Include="EuropeanDigitalPutOption.cpp" />
@@ -134,8 +135,10 @@
     <ClCompile Include="Romy_Chemaly.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BinaryTree.h" />
     <ClInclude Include="BlackScholesPricer.h" />
     <ClInclude Include="CallOption.h" />
+    <ClInclude Include="CRRPricer.h" />
     <ClInclude Include="EuropeanDigitalCallOption.h" />
     <ClInclude Include="EuropeanDigitalOption.h" />
     <ClInclude Include="EuropeanDigitalPutOption.h" />
