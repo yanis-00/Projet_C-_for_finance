@@ -1,20 +1,26 @@
+#pragma once
 
 #ifndef OPTION_H
 #define OPTION_H
 
-    class Option {
-    private:
-        double _expiry;
+#include <vector>
 
-    public:
-        Option(double expiry);
+class Option {
+private:
+    double _expiry;
 
-        double getExpiry();
+public:
+    Option(double expiry);
+    virtual ~Option() = default;
 
-        virtual double payoff(double) = 0;
-    };
+    double getExpiry();
+
+    virtual double payoff(double) = 0;
+
+    // Hooks used by Parts III and IV (default behaviour for European options)
+    virtual double payoffPath(std::vector<double> path);
+    virtual bool isAsianOption();
+    virtual bool isAmericanOption();
+};
 
 #endif
-
-    
-

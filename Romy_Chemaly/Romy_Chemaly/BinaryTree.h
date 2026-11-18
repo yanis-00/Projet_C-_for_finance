@@ -4,6 +4,7 @@
 #include <iostream>
 #include <iomanip>
 #include <stdexcept>
+#include <string>
 
 template <typename T>
 class BinaryTree {

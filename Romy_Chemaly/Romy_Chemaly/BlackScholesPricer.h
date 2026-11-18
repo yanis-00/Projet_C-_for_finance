@@ -1,4 +1,5 @@
 
+#pragma once
 #ifndef BLACKSCHOLESPRICER_H
 #define BLACKSCHOLESPRICER_H
 
